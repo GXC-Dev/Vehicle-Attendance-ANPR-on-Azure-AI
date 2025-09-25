@@ -1,7 +1,7 @@
 
 <# ===============================================
  Vehicle Attendance (ANPR) – Deploy Script
- Author: Gaurish (AI-102) | Version: v1.0
+ Author: GXC-Dev | Version: v3.2
 ================================================ #>
 
 param(
