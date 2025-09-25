@@ -1,0 +1,6 @@
+
+### Health
+GET http://localhost:8080/healthz
+
+### Today events
+GET http://localhost:8080/api/events
